@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://earth.google.com/kml/2.1'>
+<Folder>
+    <name>warehouse_model</name>
+    <description><![CDATA[Created with <a href="http://sketchup.google.com/">Google 3D Warehouse 1.0</a>]]></description>
+    <DocumentSource>SketchUp</DocumentSource>
+<visibility>1</visibility>
+<LookAt>
+<heading>303.55</heading>
+<tilt>77.4455</tilt>
+<latitude>41.90302563508058</latitude>
+<longitude>12.45522141118042</longitude>
+<range>477.7101400921322</range>
+<altitude>96.53358814451886</altitude>
+</LookAt>
+<Folder>
+<name>Tour</name>
+<Placemark>
+<name><![CDATA[Home]]></name>
+<visibility>1</visibility>
+<LookAt>
+<heading>301.372</heading>
+<tilt>72.5982</tilt>
+<latitude>41.9027733332208</latitude>
+<longitude>12.45547714832315</longitude>
+<range>567.8342774361265</range>
+<altitude>162.2709267590238</altitude>
+</LookAt>
+</Placemark>
+<Placemark>
+<name><![CDATA[Layers]]></name>
+<visibility>1</visibility>
+<LookAt>
+<heading>304.481</heading>
+<tilt>70.799</tilt>
+<latitude>41.90253778774441</latitude>
+<longitude>12.45599043522557</longitude>
+<range>567.8342774361262</range>
+<altitude>181.178953247121</altitude>
+</LookAt>
+</Placemark>
+<Placemark>
+<name><![CDATA[from Sud-East]]></name>
+<visibility>1</visibility>
+<LookAt>
+<heading>307.277</heading>
+<tilt>81.3376</tilt>
+<latitude>41.90274384179038</latitude>
+<longitude>12.45584501965598</longitude>
+<range>398.5176844820912</range>
+<altitude>64.35958541668789</altitude>
+</LookAt>
+</Placemark>
+<Placemark>
+<name><![CDATA[The Oval]]></name>
+<visibility>1</visibility>
+<LookAt>
+<heading>298.089</heading>
+<tilt>49.0123</tilt>
+<latitude>41.90237093835606</latitude>
+<longitude>12.45673217348032</longitude>
+<range>331.705417105084</range>
+<altitude>159.1601221386094</altitude>
+</LookAt>
+</Placemark>
+<Placemark>
+<name><![CDATA[From East]]></name>
+<visibility>1</visibility>
+<LookAt>
+<heading>270.09</heading>
+<tilt>81.2855</tilt>
+<latitude>41.90217248202396</latitude>
+<longitude>12.45388288443457</longitude>
+<range>561.25620967157</range>
+<altitude>74.30825736407425</altitude>
+</LookAt>
+</Placemark>
+<Placemark>
+<name><![CDATA[Sunset]]></name>
+<visibility>1</visibility>
+<LookAt>
+<heading>270.09</heading>
+<tilt>81.2855</tilt>
+<latitude>41.90217248202396</latitude>
+<longitude>12.45388288443457</longitude>
+<range>561.25620967157</range>
+<altitude>74.30825736407425</altitude>
+</LookAt>
+</Placemark>
+<Placemark>
+<name><![CDATA[Nord-East Gate]]></name>
+<visibility>1</visibility>
+<LookAt>
+<heading>317.731</heading>
+<tilt>88.4334</tilt>
+<latitude>41.90348899914235</latitude>
+<longitude>12.45696900834945</longitude>
+<range>174.3996422852869</range>
+<altitude>4.00250479905279</altitude>
+</LookAt>
+</Placemark>
+<Placemark>
+<name><![CDATA[Inside 1]]></name>
+<visibility>1</visibility>
+<LookAt>
+<heading>321.018</heading>
+<tilt>84.9539</tilt>
+<latitude>41.90350545526697</latitude>
+<longitude>12.45715896924596</longitude>
+<range>128.9252203141035</range>
+<altitude>0.6761135785972684</altitude>
+</LookAt>
+</Placemark>
+<Placemark>
+<name><![CDATA[Inside 2]]></name>
+<visibility>1</visibility>
+<LookAt>
+<heading>306.227</heading>
+<tilt>87.7959</tilt>
+<latitude>41.90366594264869</latitude>
+<longitude>12.45657411069265</longitude>
+<range>144.7601538171153</range>
+<altitude>1.305036235983545</altitude>
+</LookAt>
+</Placemark>
+<Placemark>
+<name><![CDATA[From Nord-Est]]></name>
+<visibility>1</visibility>
+<LookAt>
+<heading>228.629</heading>
+<tilt>62.8942</tilt>
+<latitude>41.90204358767585</latitude>
+<longitude>12.45591186453659</longitude>
+<range>459.3062983843335</range>
+<altitude>199.4009979468116</altitude>
+</LookAt>
+</Placemark>
+<Placemark>
+<name><![CDATA[Terrace]]></name>
+<visibility>1</visibility>
+<LookAt>
+<heading>231.759</heading>
+<tilt>82.3833</tilt>
+<latitude>41.90014620128069</latitude>
+<longitude>12.45091529658519</longitude>
+<range>448.3679292513522</range>
+<altitude>52.93135028904047</altitude>
+</LookAt>
+</Placemark>
+<Placemark>
+<name><![CDATA[From Back]]></name>
+<visibility>1</visibility>
+<LookAt>
+<heading>128.775</heading>
+<tilt>64.5956</tilt>
+<latitude>41.90206460113089</latitude>
+<longitude>12.45468002741729</longitude>
+<range>401.2071313818616</range>
+<altitude>185.5280808906136</altitude>
+</LookAt>
+</Placemark>
+<Placemark>
+<name><![CDATA[The Dome]]></name>
+<visibility>1</visibility>
+<LookAt>
+<heading>84.0514</heading>
+<tilt>59.9719</tilt>
+<latitude>41.90226044221845</latitude>
+<longitude>12.45438210982796</longitude>
+<range>143.8348888128274</range>
+<altitude>98.55865700350267</altitude>
+</LookAt>
+</Placemark>
+<Placemark>
+<name><![CDATA[Vanvitelli View]]></name>
+<visibility>1</visibility>
+<LookAt>
+<heading>78.998</heading>
+<tilt>88.6401</tilt>
+<latitude>41.9028928840203</latitude>
+<longitude>12.45872296609151</longitude>
+<range>893.6503465923911</range>
+<altitude>70.15404699544328</altitude>
+</LookAt>
+</Placemark>
+<Placemark>
+<name><![CDATA[From Top Wirelss]]></name>
+<visibility>1</visibility>
+<LookAt>
+<heading>0</heading>
+<tilt>0</tilt>
+<latitude>41.90220491901591</latitude>
+<longitude>12.45529485987749</longitude>
+<range>506.6203846461068</range>
+<altitude>575.5144194239261</altitude>
+</LookAt>
+</Placemark>
+<Placemark>
+<name><![CDATA[Goodbye]]></name>
+<visibility>1</visibility>
+<LookAt>
+<heading>301.372</heading>
+<tilt>72.5982</tilt>
+<latitude>41.9027733332208</latitude>
+<longitude>12.45547714832315</longitude>
+<range>567.8342774361265</range>
+<altitude>162.2709267590238</altitude>
+</LookAt>
+</Placemark>
+</Folder>
+  <Placemark>
+    <name>Model</name>
+    <description><![CDATA[All Copyrights Reserved - Enrico Dalbosco, ottobre 2010 (Arrigo Silva) - arrigosilva.blogspot.com]]></description>
+    <Style id='default'>
+    </Style>
+    <Model>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <Location>
+            <longitude>12.455085346348</longitude>
+            <latitude>41.902200271923</latitude>
+            <altitude>-0.000000000000</altitude>
+        </Location>
+        <Orientation>
+            <heading>-0.000000000000</heading>
+            <tilt>0</tilt>
+            <roll>0</roll>
+        </Orientation>
+        <Scale>
+            <x>1.0</x>
+            <y>1.0</y>
+            <z>1.0</z>
+        </Scale>
+        <Link>
+            <href>models/warehouse_model.dae</href>
+        </Link>
+    </Model>
+  </Placemark></Folder>
+</kml>
